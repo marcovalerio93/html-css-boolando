@@ -4,3 +4,29 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header{
+    height: 50px;
+    width:100%;
+    background-color: #fe6a00;
+}
+header nav.menu{
+    width: 80%;
+    margin:0 auto;
+    align-items: center;
+    display: flex;
+    
+}
+header ul{
+    list-style: none;
+    display: flex;
+}
+header a{
+    color:  #fff;
+    text-decoration: none;
+}
+header img{
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+}

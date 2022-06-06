@@ -124,9 +124,27 @@ span{
 
 /* footer */
 footer{
-    background-color: #000;
+    background-color: #222;
+    padding: 40px 0px;
+    color: #fff;
 }
 footer .container{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-betrween;
+}
+footer ul{
+    display:flex;
+    list-style: none;
+}
+
+footer a{ 
+    color: #fff;
+    text-decoration: none;
+    padding:0px 20px 0px 0px ;
+}
+footer i{
+    font-size: 20px;
+}
+footer h4{ 
+    margin-bottom: 10px;
 }

@@ -121,3 +121,12 @@ span{
 .card-img:hover .back-img{
     display: inline-block;
 }
+
+/* footer */
+footer{
+    background-color: #000;
+}
+footer .container{
+    display: flex;
+    justify-content: space-between;
+}
